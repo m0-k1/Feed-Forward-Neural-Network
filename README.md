@@ -8,4 +8,4 @@ What is a Feed forward Neural Network(FNN)?
   
   In this network, the information moves in only one direction, forward, from the input nodes, through the hidden nodes (if any)              and to the output nodes. There are no cycles or loops in the network.
   
-  
+  ![](images/Feed_forward_neural_net.gif)
