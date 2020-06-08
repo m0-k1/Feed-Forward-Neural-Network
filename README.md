@@ -11,6 +11,6 @@ What is a Feed forward Neural Network(FNN)?
 
 In this repository, we will create a simple Feed forward Neural Network for binary classification of non-linearly seperable arbitary datset. This model will be compared to Sigmoid Neuron model on the same datset.
 
->>For Sigmoid Neuron Model refer to - https://github.com/Mohit-Kundu-1/Sigmoid_Neuron_Model
+>For Sigmoid Neuron Model refer to - https://github.com/Mohit-Kundu-1/Sigmoid_Neuron_Model
 
 Afterwards, we will model a more generic class of FNN with multi-class classification and will play around a little bit.
