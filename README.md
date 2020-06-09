@@ -1,5 +1,6 @@
-# Feed-Forward-Neural-Network
-Creating a feed forward neural network from scratch and testing it
+# Feed-Forward-Neural-Network                                                                   
+<!-- Place this tag where you want the button to render. -->
+<a class="github-button" href="https://github.com/Mohit-Kundu-1" data-color-scheme="no-preference: dark; light: light; dark: dark;" data-size="large" data-show-count="true" aria-label="Follow @Mohit-Kundu-1 on GitHub">Follow @Mohit-Kundu-1</a>
 
 What is a Feed forward Neural Network(FNN)?
 >A Feedforward Neural Network is an artificial neural network wherein connections between the nodes do not form a cycle.
