@@ -18,4 +18,5 @@ In this repository, we will create a simple Feed forward Neural Network for bina
 
 >After succesfully realising the Feed Forward Network given in the figure, a more generic Neural Network will be worked upon for binary classification.
 >Afterwards, we will model a more generic class of FNN with multi-class classification and will play around a little bit.
+
 For Sigmoid Neuron Model refer to - https://github.com/Mohit-Kundu-1/Sigmoid_Neuron_Model
