@@ -14,7 +14,7 @@ In this repository, we will create a simple Feed forward Neural Network for bina
 
 >The Neural Network will be of the type as shown in image:
 
->![](images/FFNetworkSingle.png)
+![](images/FFNetworkSingle.png)
 
 >After succesfully realising the Feed Forward Network given in the figure, a more generic Neural Network will be worked upon for binary classification.
 
