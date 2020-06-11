@@ -20,7 +20,7 @@ In this repository, we will create a simple Feed forward Neural Network for bina
 
 >Afterwards, we will model a more generic class of FNN with multi-class classification and will play around a little bit.
 
->The diagram for the FNN model with multi-class classification is given below - 
+>The diagram for the FNN model with multi-class classification is given below-
 
 ![](images/FFNetworkMultiClass.png)
 
