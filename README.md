@@ -1,4 +1,4 @@
-# Feed-Forward-Neural-Network                                                                   
+# Feed Forward Neural Network                                                                   
 
 What is a Feed forward Neural Network(FNN)?
 >A Feedforward Neural Network is an artificial neural network wherein connections between the nodes do not form a cycle.
