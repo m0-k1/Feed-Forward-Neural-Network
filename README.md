@@ -21,5 +21,3 @@ In this repository, we will create a simple Feed forward Neural Network for bina
 >The diagram for the FNN model with multi-class classification is given below-
 
 ![](images/FFNetworkMultiClass.png)
-
-For Sigmoid Neuron Model refer to - https://github.com/Mohit-Kundu-1/Sigmoid_Neuron_Model
