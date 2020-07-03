@@ -7,7 +7,7 @@
 >The feedforward neural network was the first and simplest type of artificial neural network devised.
 >In this network, the information moves in only one direction, forward, from the input nodes, through the hidden nodes (if any) and to the output nodes. There are no cycles or loops in the network.
   
- ![](images/Feed_forward_neural_net.gif)
+<img src="https://github.com/m0-k1/Feed-Forward-Neural-Network/blob/master/images/Feed_forward_neural_net.gif">
 
 
 In this repository, we will create a simple Feed forward Neural Network for binary classification of non-linearly seperable arbitary datset. This model will be compared to Sigmoid Neuron model on the same datset.
