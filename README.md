@@ -22,4 +22,4 @@ In this repository, we will create a simple Feed forward Neural Network for bina
 
 >The diagram for the FNN model with multi-class classification is given below-
 
-![](images/FFNetworkMultiClass.png)
+<img src="https://github.com/m0-k1/Feed-Forward-Neural-Network/blob/master/images/FFNetworkMultiClass.png">
