@@ -1,3 +1,5 @@
+<img src="https://github.com/favicon.ico" width="48">
+
 # Feed Forward Neural Network                                                                   
 
 **What is a Feed forward Neural Network(FNN)?**
