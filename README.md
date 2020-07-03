@@ -8,7 +8,7 @@
  ![](images/Feed_forward_neural_net.gif)
 
 
-In this repository, we will create a simple Feed forward Neural Network for binary classification of non-linearly seperable arbitary datset. This model will be compared to Sigmoid Neuron model on the same datset.
+In this repository, we will create a simple Feed forward Neural Network for binary classification of non-linearly seperable arbitary datset. This model will be compared to Sigmoid Neuron model on the same datset
 
 >The Neural Network will be of the type as shown in image:
 
